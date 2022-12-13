@@ -1,0 +1,10 @@
+.wwebjs_auth
+logs
+node_modules
+dist
+public
+.env
+.htaccess
+index.html
+404.html
+.user.ini
